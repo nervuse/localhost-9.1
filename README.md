@@ -5,4 +5,4 @@
 
 
 
-![Build Status](https://github.com/nervuse/localhost-9.1/workflows/blank.yml/badge.svg)
+![Build Status](https://github.com/nervuse/localhost-9.1/workflows/CI/badge.svg)
